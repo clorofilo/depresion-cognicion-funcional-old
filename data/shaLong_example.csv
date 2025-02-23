@@ -1,0 +1,7 @@
+ID,Wave,Country,Age,Sex,Depression_Trajectory,Cognition_Score,Physical_Function_Score,Education_Level,Marital_Status,Wealth_Index
+1001,1,ES,65,M,No depression,55,60,Secondary,Married,3
+1001,2,ES,67,M,Persistence (2 ep),53,58,Secondary,Married,3
+1002,1,DE,70,F,Persistence (+3 ep),50,55,Tertiary,Widowed,4
+1002,2,DE,72,F,Persistence (+3 ep),48,53,Tertiary,Widowed,4
+1003,1,FR,68,F,Emergence,52,57,Primary,Single,2
+1003,2,FR,70,F,Remission,54,59,Primary,Single,2
