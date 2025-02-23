@@ -10,5 +10,5 @@ La base de datos utilizada proviene de la encuesta SHARE (Survey of Health, Agei
 
 ## Archivo de Ejemplo
 
-Para facilitar la comprensión de la estructura de la base de datos utilizada en el estudio, se proporciona un archivo CSV sintético, `example_data.csv`, que imita la estructura del archivo original (`shaLong.rdata`). Este archivo contiene datos ficticios y únicamente tiene fines demostrativos y de prueba. No incluye ningún dato real del estudio.
-También se incluye en esta misma carpeta un diccionario para ayudar a la interpretación de las distintas variables
+* Para facilitar la comprensión de la estructura de la base de datos utilizada en el estudio, se proporciona un archivo CSV sintético, `example_data.csv`, que imita la estructura del archivo original (`shaLong.rdata`). Este archivo contiene datos ficticios y únicamente tiene fines demostrativos y de prueba. No incluye ningún dato real del estudio.
+* También se incluye en esta misma carpeta un diccionario (`Diccionario_datos.xlsx`)para ayudar a la interpretación de las distintas variables
