@@ -1,5 +1,7 @@
 # Efecto de la depresión sobre la cognición y la capacidad funcional física en personas mayores: un análisis longitudinal
 
+Para consultar el documento completo del estudio, haz clic [aquí](docs/Efecto%20de%20la%20depresi%C3%B3n%20sobre%20la%20cognici%C3%B3n%20y%20la%20capacidad%20funcional%20f%C3%ADsica%20en%20personas%20mayores%20-%20un%20an%C3%A1lisis%20longitudinal.pdf).
+
 ## Descripción General
 
 Este estudio examina el impacto del Trastorno Depresivo Mayor (TDM) en la cognición y la capacidad funcional física en adultos mayores a lo largo del tiempo. Utilizando datos de la encuesta SHARE –que recoge información periódica de personas mayores en diversos países europeos– se analizó cómo la persistencia de la depresión se asocia con un deterioro cognitivo y, en consecuencia, con una disminución en la capacidad funcional física. La investigación se fundamenta en un análisis longitudinal que permite identificar patrones y relaciones causales entre estas variables en una muestra de 17,878 individuos mayores de 50 años.
@@ -46,3 +48,9 @@ El estudio encontró que:
 Este repositorio contiene la documentación y el código utilizado en el análisis del estudio. Los scripts y notebooks se encuentran en la carpeta `code/`, mientras que la documentación complementaria está en la carpeta `docs/`.
 
 > **Nota:** La data de la encuesta SHARE es confidencial y no se distribuye a través de este repositorio.
+
+---
+
+Para consultar el documento completo del estudio, haz clic [aquí](docs/Efecto%20de%20la%20depresi%C3%B3n%20sobre%20la%20cognici%C3%B3n%20y%20la%20capacidad%20funcional%20f%C3%ADsica%20en%20personas%20mayores%20-%20un%20an%C3%A1lisis%20longitudinal.pdf).
+
+---
