@@ -1,0 +1,4 @@
+ID,Country,Age,Sex,Overall_Depression,Avg_Cognition_Score,Avg_Physical_Function_Score,Education_Level,Marital_Status,Wealth_Index
+1001,ES,66,M,Persistence (2 ep),54,59,Secondary,Married,3
+1002,DE,71,F,Persistence (+3 ep),49,54,Tertiary,Widowed,4
+1003,FR,69,F,Emergence/Remission,53,58,Primary,Single,2
