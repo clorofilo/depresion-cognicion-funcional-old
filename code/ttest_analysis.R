@@ -1,6 +1,6 @@
 # Script de análisis de pruebas t independientes
-# Autor: [Tu Nombre]
-# Fecha: [Fecha de creación]
+# Autor: Joan
+# Fecha: 2024
 # Descripción: Este script realiza pruebas t para muestras independientes
 # utilizando el paquete jmv en R.
 
